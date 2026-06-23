@@ -1,0 +1,1001 @@
+﻿PollingUnitID,State,LGA,Ward,ElectionYear,RegisteredVoters,PartyAVotes,PartyBVotes,PartyCVotes,TotalVotesCast,Turnout Percentage,AnomalyFlag,MergeKey,LGA.1,State.1,ElectionYear.1,IncidentCount,AvgSeverityScore,AnomalyIndicator
+PU001,Lagos,Surulere,Ward A,2019,500,245,189,55,489,97.8,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU002,Lagos,Surulere,Ward A,2019,475,0,0,0,0,0,Zero Turnout,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,1
+PU014,Lagos,Surulere,Ward A,2019,510,260,240,10,510,100,Perfect Turnout,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,1
+PU004,Kano,Nassarawa,Ward B,2019,800,400,350,50,810,101.25,Over-voting,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,1
+PU005,Kano,Nassarawa,Ward B,2019,750,380,320,40,740,98.67,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU013,Kano,Nassarawa,Ward B,2019,780,390,370,20,100,12.82,Suspicious Low,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,1
+PU003,Lagos,Eti-Osa,Ward C,2019,600,310,200,90,600,100,Perfect Turnout,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,1
+PU010,Lagos,Eti-Osa,Ward C,2019,550,270,230,0,500,90.91,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU007,Rivers,Port Harcourt,Ward D,2019,900,450,400,55,905,100.56,Over-voting,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,1
+PU009,Rivers,Port Harcourt,Ward D,2019,700,350,300,30,680,97.14,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU011,Abuja,AMAC,Ward A,2019,1200,600,500,90,1190,99.17,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU016,Abuja,AMAC,Ward A,2019,1100,540,520,35,1095,99.55,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU012,Abuja,Bwari,Ward B,2019,950,480,420,45,945,99.47,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU006,Kano,Fagge,Ward A,2019,620,290,280,45,615,99.19,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU017,Kano,Fagge,Ward A,2019,640,300,310,25,635,99.22,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU008,Rivers,Obio/Akpor,Ward F,2019,850,420,380,48,848,99.76,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU015,Rivers,Obio/Akpor,Ward F,2019,820,410,395,15,820,100,Perfect Turnout,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,1
+PU018,Lagos,Eti-Osa,Ward C,2019,580,290,270,15,575,99.14,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU019,Rivers,Port Harcourt,Ward D,2019,880,440,420,18,878,99.77,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU020,Abuja,Bwari,Ward B,2019,970,490,460,20,970,100,Perfect Turnout,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,1
+PU021,Lagos,Surulere,Ward B,2019,530,260,250,20,530,100,Perfect Turnout,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,1
+PU022,Kano,Nassarawa,Ward C,2019,820,400,380,30,810,98.78,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU023,Rivers,Obio/Akpor,Ward G,2019,890,430,410,40,880,98.88,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU024,Abuja,AMAC,Ward B,2019,1150,570,530,45,1145,99.57,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU025,Lagos,Eti-Osa,Ward D,2019,620,310,280,25,615,99.19,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU026,Kano,Fagge,Ward B,2019,660,320,300,35,655,99.24,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU027,Rivers,Port Harcourt,Ward E,2019,920,460,420,35,915,99.46,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU028,Abuja,Bwari,Ward C,2019,980,490,450,30,970,98.98,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU029,Lagos,Surulere,Ward C,2019,540,270,250,15,535,99.07,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU030,Kano,Nassarawa,Ward D,2019,790,390,360,30,780,98.73,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU031,Rivers,Obio/Akpor,Ward H,2019,860,420,400,30,850,98.84,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU032,Abuja,AMAC,Ward C,2019,1080,530,500,40,1070,99.07,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU033,Lagos,Eti-Osa,Ward E,2019,590,300,270,20,590,100,Perfect Turnout,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,1
+PU034,Kano,Fagge,Ward C,2019,630,310,290,25,625,99.21,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU035,Rivers,Port Harcourt,Ward F,2019,910,455,420,30,905,99.45,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU036,Abuja,Bwari,Ward D,2019,960,480,440,35,955,99.48,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU037,Lagos,Surulere,Ward D,2019,520,255,240,20,515,99.04,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU038,Kano,Nassarawa,Ward E,2019,770,380,350,35,765,99.35,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU039,Rivers,Obio/Akpor,Ward I,2019,840,410,390,35,835,99.4,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU040,Abuja,AMAC,Ward D,2019,1120,560,520,40,1120,100,Perfect Turnout,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,1
+PU041,Lagos,Eti-Osa,Ward F,2019,610,305,280,25,610,100,Perfect Turnout,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,1
+PU042,Kano,Fagge,Ward D,2019,650,320,300,30,645,99.23,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU043,Rivers,Port Harcourt,Ward G,2019,930,465,430,30,925,99.46,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU044,Abuja,Bwari,Ward E,2019,990,495,460,30,985,99.49,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU045,Lagos,Surulere,Ward E,2019,560,280,260,20,555,99.11,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU046,Kano,Nassarawa,Ward F,2019,800,400,370,25,795,99.38,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU047,Rivers,Obio/Akpor,Ward J,2019,870,435,410,25,865,99.43,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU048,Abuja,AMAC,Ward E,2019,1090,545,510,35,1085,99.54,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU049,Lagos,Eti-Osa,Ward G,2019,570,285,260,20,565,99.12,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU050,Kano,Fagge,Ward E,2019,670,335,310,25,665,99.25,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU051,Rivers,Port Harcourt,Ward H,2019,940,470,435,30,935,99.47,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU052,Abuja,Bwari,Ward F,2019,1000,500,465,35,995,99.5,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU053,Lagos,Surulere,Ward F,2019,550,275,255,15,545,99.09,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU054,Kano,Nassarawa,Ward G,2019,810,405,375,30,805,99.38,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU055,Rivers,Obio/Akpor,Ward K,2019,880,440,415,25,875,99.43,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU056,Abuja,AMAC,Ward F,2019,1140,570,535,35,1135,99.56,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU057,Lagos,Eti-Osa,Ward H,2019,600,300,275,25,595,99.17,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU058,Kano,Fagge,Ward F,2019,680,340,315,25,675,99.26,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU059,Rivers,Port Harcourt,Ward I,2019,950,475,440,35,945,99.47,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU060,Abuja,Bwari,Ward G,2019,1010,505,470,30,1005,99.5,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU061,Lagos,Surulere,Ward G,2019,570,285,265,20,565,99.12,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU062,Kano,Nassarawa,Ward H,2019,830,415,385,30,825,99.4,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU063,Rivers,Obio/Akpor,Ward L,2019,890,445,420,25,885,99.44,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU064,Abuja,AMAC,Ward G,2019,1110,555,520,35,1105,99.55,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU065,Lagos,Eti-Osa,Ward I,2019,580,290,265,25,575,99.14,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU066,Kano,Fagge,Ward G,2019,690,345,320,25,685,99.28,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU067,Rivers,Port Harcourt,Ward J,2019,960,480,445,35,955,99.48,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU068,Abuja,Bwari,Ward H,2019,1020,510,475,35,1015,99.51,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU069,Lagos,Surulere,Ward H,2019,590,295,275,20,585,99.15,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU070,Kano,Nassarawa,Ward I,2019,840,420,390,30,835,99.4,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU071,Rivers,Obio/Akpor,Ward M,2019,900,450,425,25,895,99.44,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU072,Abuja,AMAC,Ward H,2019,1130,565,530,35,1125,99.56,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU073,Lagos,Eti-Osa,Ward J,2019,610,305,280,25,605,99.18,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU074,Kano,Fagge,Ward H,2019,700,350,325,25,695,99.29,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU075,Rivers,Port Harcourt,Ward K,2019,970,485,450,35,965,99.48,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU076,Abuja,Bwari,Ward I,2019,1030,515,480,35,1025,99.51,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU077,Lagos,Surulere,Ward I,2019,600,300,280,20,595,99.17,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU078,Kano,Nassarawa,Ward J,2019,850,425,395,30,845,99.41,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU079,Rivers,Obio/Akpor,Ward N,2019,910,455,430,25,905,99.45,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU080,Abuja,AMAC,Ward I,2019,1150,575,540,35,1145,99.57,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU081,Lagos,Eti-Osa,Ward K,2019,620,310,285,25,615,99.19,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU082,Kano,Fagge,Ward I,2019,710,355,330,25,705,99.3,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU083,Rivers,Port Harcourt,Ward L,2019,980,490,455,35,975,99.49,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU084,Abuja,Bwari,Ward J,2019,1040,520,485,35,1035,99.52,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU085,Lagos,Surulere,Ward J,2019,610,305,285,20,605,99.18,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU086,Kano,Nassarawa,Ward K,2019,860,430,400,30,855,99.42,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU087,Rivers,Obio/Akpor,Ward O,2019,920,460,435,25,915,99.46,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU088,Abuja,AMAC,Ward J,2019,1160,580,545,35,1155,99.57,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU089,Lagos,Eti-Osa,Ward L,2019,630,315,290,25,625,99.21,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU090,Kano,Fagge,Ward J,2019,720,360,335,25,715,99.31,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU091,Rivers,Port Harcourt,Ward M,2019,990,495,460,35,985,99.49,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU092,Abuja,Bwari,Ward K,2019,1050,525,490,35,1045,99.52,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU093,Lagos,Surulere,Ward K,2019,620,310,290,20,615,99.19,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU094,Kano,Nassarawa,Ward L,2019,870,435,405,30,865,99.43,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU095,Rivers,Obio/Akpor,Ward P,2019,930,465,440,25,925,99.46,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU096,Abuja,AMAC,Ward K,2019,1170,585,550,35,1165,99.57,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU097,Lagos,Eti-Osa,Ward M,2019,640,320,295,25,635,99.22,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU098,Kano,Fagge,Ward K,2019,730,365,340,25,725,99.32,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU099,Rivers,Port Harcourt,Ward N,2019,1000,500,465,35,995,99.5,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU100,Abuja,Bwari,Ward L,2019,1060,530,495,35,1055,99.53,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU101,Lagos,Surulere,Ward A,2023,500,260,195,60,515,103,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU102,Lagos,Surulere,Ward A,2023,475,10,5,3,18,3.79,Suspicious Low,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU103,Lagos,Eti-Osa,Ward C,2023,600,320,210,95,625,104.17,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU104,Kano,Nassarawa,Ward B,2023,800,420,360,55,835,104.38,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU105,Kano,Nassarawa,Ward B,2023,750,390,330,45,765,102,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU106,Kano,Fagge,Ward A,2023,620,300,290,50,640,103.23,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU107,Rivers,Port Harcourt,Ward D,2023,900,470,410,60,940,104.44,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU108,Rivers,Obio/Akpor,Ward F,2023,850,440,390,52,882,103.76,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU109,Rivers,Port Harcourt,Ward D,2023,700,370,0,35,405,57.86,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU110,Lagos,Eti-Osa,Ward C,2023,550,280,240,-10,510,92.73,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU111,Abuja,AMAC,Ward A,2023,1200,620,510,95,1225,102.08,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU112,Abuja,Bwari,Ward B,2023,950,490,430,50,970,102.11,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU113,Kano,Nassarawa,Ward B,2023,780,400,380,25,805,103.21,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU114,Lagos,Surulere,Ward A,2023,510,270,250,15,535,104.9,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU115,Rivers,Obio/Akpor,Ward F,2023,820,430,405,20,855,104.27,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU116,Abuja,AMAC,Ward A,2023,1100,560,530,40,1130,102.73,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU117,Kano,Fagge,Ward A,2023,640,310,320,30,660,103.12,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU118,Lagos,Eti-Osa,Ward C,2023,580,300,280,20,600,103.45,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU119,Rivers,Port Harcourt,Ward D,2023,880,460,430,22,912,103.64,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU120,Abuja,Bwari,Ward B,2023,970,500,470,25,995,102.58,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU121,Lagos,Surulere,Ward B,2023,530,270,260,25,555,104.72,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU122,Kano,Nassarawa,Ward C,2023,820,420,390,35,845,103.05,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU123,Rivers,Obio/Akpor,Ward G,2023,890,450,420,45,915,102.81,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU124,Abuja,AMAC,Ward B,2023,1150,590,540,50,1180,102.61,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU125,Lagos,Eti-Osa,Ward D,2023,620,320,290,30,640,103.23,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU126,Kano,Fagge,Ward B,2023,660,330,310,40,680,103.03,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU127,Rivers,Port Harcourt,Ward E,2023,920,480,430,40,950,103.26,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU128,Abuja,Bwari,Ward C,2023,980,500,460,35,995,101.53,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU129,Lagos,Surulere,Ward C,2023,540,280,260,20,560,103.7,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU130,Kano,Nassarawa,Ward D,2023,790,410,370,35,815,103.16,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU131,Rivers,Obio/Akpor,Ward H,2023,860,440,410,35,885,102.91,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU132,Abuja,AMAC,Ward C,2023,1080,550,510,45,1105,102.31,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU133,Lagos,Eti-Osa,Ward E,2023,590,310,280,25,615,104.24,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU134,Kano,Fagge,Ward C,2023,630,320,300,30,650,103.17,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU135,Rivers,Port Harcourt,Ward F,2023,910,475,430,35,940,103.3,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU136,Abuja,Bwari,Ward D,2023,960,490,450,40,980,102.08,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU137,Lagos,Surulere,Ward D,2023,520,265,250,25,540,103.85,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU138,Kano,Nassarawa,Ward E,2023,770,400,360,40,800,103.9,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU139,Rivers,Obio/Akpor,Ward I,2023,840,430,400,40,870,103.57,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU140,Abuja,AMAC,Ward D,2023,1120,580,530,45,1155,103.12,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU141,Lagos,Eti-Osa,Ward F,2023,610,315,290,30,635,104.1,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU142,Kano,Fagge,Ward D,2023,650,330,310,35,675,103.85,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU143,Rivers,Port Harcourt,Ward G,2023,930,485,440,35,960,103.23,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU144,Abuja,Bwari,Ward E,2023,990,510,470,35,1015,102.53,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU145,Lagos,Surulere,Ward E,2023,560,290,270,25,585,104.46,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU146,Kano,Nassarawa,Ward F,2023,800,420,380,30,830,103.75,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU147,Rivers,Obio/Akpor,Ward J,2023,870,455,420,30,905,104.02,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU148,Abuja,AMAC,Ward E,2023,1090,565,520,40,1125,103.21,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU149,Lagos,Eti-Osa,Ward G,2023,570,295,270,25,590,103.51,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU150,Kano,Fagge,Ward E,2023,670,345,320,30,695,103.73,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU151,Rivers,Port Harcourt,Ward H,2023,940,490,445,35,970,103.19,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU152,Abuja,Bwari,Ward F,2023,1000,520,475,40,1035,103.5,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU153,Lagos,Surulere,Ward F,2023,550,285,265,20,570,103.64,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU154,Kano,Nassarawa,Ward G,2023,810,425,385,35,845,104.32,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU155,Rivers,Obio/Akpor,Ward K,2023,880,460,425,30,915,103.98,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU156,Abuja,AMAC,Ward F,2023,1140,590,545,40,1175,103.07,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU157,Lagos,Eti-Osa,Ward H,2023,600,310,285,30,625,104.17,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU158,Kano,Fagge,Ward F,2023,680,350,325,30,705,103.68,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU159,Rivers,Port Harcourt,Ward I,2023,950,495,450,40,985,103.68,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU160,Abuja,Bwari,Ward G,2023,1010,525,480,35,1040,102.97,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU161,Lagos,Surulere,Ward G,2023,570,295,275,25,595,104.39,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU162,Kano,Nassarawa,Ward H,2023,830,435,395,35,865,104.22,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU163,Rivers,Obio/Akpor,Ward L,2023,890,465,430,30,925,103.93,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU164,Abuja,AMAC,Ward G,2023,1110,575,530,40,1145,103.15,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU165,Lagos,Eti-Osa,Ward I,2023,580,300,275,30,605,104.31,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU166,Kano,Fagge,Ward G,2023,690,355,330,30,715,103.62,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU167,Rivers,Port Harcourt,Ward J,2023,960,500,455,40,995,103.65,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU168,Abuja,Bwari,Ward H,2023,1020,530,485,40,1055,103.43,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU169,Lagos,Surulere,Ward H,2023,590,305,285,25,615,104.24,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU170,Kano,Nassarawa,Ward I,2023,840,440,400,35,875,104.17,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU171,Rivers,Obio/Akpor,Ward M,2023,900,470,435,30,935,103.89,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU172,Abuja,AMAC,Ward H,2023,1130,585,540,40,1165,103.1,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU173,Lagos,Eti-Osa,Ward J,2023,610,315,290,30,635,104.1,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU174,Kano,Fagge,Ward H,2023,700,360,335,30,725,103.57,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU175,Rivers,Port Harcourt,Ward K,2023,970,505,460,40,1005,103.61,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU176,Abuja,Bwari,Ward I,2023,1030,535,490,40,1065,103.4,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU177,Lagos,Surulere,Ward I,2023,600,310,290,25,625,104.17,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU178,Kano,Nassarawa,Ward J,2023,850,445,405,35,885,104.12,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU179,Rivers,Obio/Akpor,Ward N,2023,910,475,440,30,945,103.85,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU180,Abuja,AMAC,Ward I,2023,1150,595,550,40,1185,103.04,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU181,Lagos,Eti-Osa,Ward K,2023,620,320,295,30,645,104.03,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU182,Kano,Fagge,Ward I,2023,710,365,340,30,735,103.52,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU183,Rivers,Port Harcourt,Ward L,2023,980,510,465,40,1015,103.57,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU184,Abuja,Bwari,Ward J,2023,1040,540,495,40,1075,103.37,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU185,Lagos,Surulere,Ward J,2023,610,315,295,25,635,104.1,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU186,Kano,Nassarawa,Ward K,2023,860,450,410,35,895,104.07,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU187,Rivers,Obio/Akpor,Ward O,2023,920,480,445,30,955,103.8,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU188,Abuja,AMAC,Ward J,2023,1160,600,555,40,1195,103.02,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU189,Lagos,Eti-Osa,Ward L,2023,630,325,300,30,655,103.97,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU190,Kano,Fagge,Ward J,2023,720,370,345,30,745,103.47,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU191,Rivers,Port Harcourt,Ward M,2023,990,515,470,40,1025,103.54,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU192,Abuja,Bwari,Ward K,2023,1050,545,500,40,1085,103.33,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU193,Lagos,Surulere,Ward K,2023,620,320,300,25,645,104.03,Over-voting,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU194,Kano,Nassarawa,Ward L,2023,870,455,415,35,905,104.02,Over-voting,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU195,Rivers,Obio/Akpor,Ward P,2023,930,485,450,30,965,103.76,Over-voting,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU196,Abuja,AMAC,Ward K,2023,1170,605,560,40,1205,102.99,Over-voting,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU197,Lagos,Eti-Osa,Ward M,2023,640,330,305,30,665,103.91,Over-voting,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU198,Kano,Fagge,Ward K,2023,730,375,350,30,755,103.42,Over-voting,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU199,Rivers,Port Harcourt,Ward N,2023,1000,520,475,40,1035,103.5,Over-voting,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU200,Abuja,Bwari,Ward L,2023,1060,550,505,40,1095,103.3,Over-voting,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU201,Lagos,Surulere,Ward L,2023,630,315,295,20,630,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU202,Kano,Nassarawa,Ward M,2023,880,440,410,30,880,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU203,Rivers,Obio/Akpor,Ward Q,2023,940,470,445,25,940,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU204,Abuja,AMAC,Ward L,2023,1180,590,555,35,1180,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU205,Lagos,Eti-Osa,Ward N,2023,650,325,300,25,650,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU206,Kano,Fagge,Ward L,2023,740,370,345,25,740,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU207,Rivers,Port Harcourt,Ward O,2023,1010,505,470,35,1010,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU208,Abuja,Bwari,Ward M,2023,1070,535,500,35,1070,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU209,Lagos,Surulere,Ward M,2023,640,320,300,20,640,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU210,Kano,Nassarawa,Ward N,2023,890,445,415,30,890,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU211,Rivers,Obio/Akpor,Ward R,2023,950,475,450,25,950,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU212,Abuja,AMAC,Ward M,2023,1190,595,560,35,1190,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU213,Lagos,Eti-Osa,Ward O,2023,660,330,305,25,660,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU214,Kano,Fagge,Ward M,2023,750,375,350,25,750,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU215,Rivers,Port Harcourt,Ward P,2023,1020,510,475,35,1020,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU216,Abuja,Bwari,Ward N,2023,1080,540,505,35,1080,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU217,Lagos,Surulere,Ward N,2023,650,325,305,20,650,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU218,Kano,Nassarawa,Ward O,2023,900,450,420,30,900,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU219,Rivers,Obio/Akpor,Ward S,2023,960,480,455,25,960,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU220,Abuja,AMAC,Ward N,2023,1200,600,565,35,1200,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU221,Lagos,Eti-Osa,Ward P,2023,670,335,310,25,670,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU222,Kano,Fagge,Ward N,2023,760,380,355,25,760,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU223,Rivers,Port Harcourt,Ward Q,2023,1030,515,480,35,1030,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU224,Abuja,Bwari,Ward O,2023,1090,545,510,35,1090,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU225,Lagos,Surulere,Ward O,2023,660,330,310,20,660,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU226,Kano,Nassarawa,Ward P,2023,910,455,425,30,910,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU227,Rivers,Obio/Akpor,Ward T,2023,970,485,460,25,970,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU228,Abuja,AMAC,Ward O,2023,1210,605,570,35,1210,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU229,Lagos,Eti-Osa,Ward Q,2023,680,340,315,25,680,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU230,Kano,Fagge,Ward O,2023,770,385,360,25,770,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU231,Rivers,Port Harcourt,Ward R,2023,1040,520,485,35,1040,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU232,Abuja,Bwari,Ward P,2023,1100,550,515,35,1100,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU233,Lagos,Surulere,Ward P,2023,670,335,315,20,670,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU234,Kano,Nassarawa,Ward Q,2023,920,460,430,30,920,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU235,Rivers,Obio/Akpor,Ward U,2023,980,490,465,25,980,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU236,Abuja,AMAC,Ward P,2023,1220,610,575,35,1220,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU237,Lagos,Eti-Osa,Ward R,2023,690,345,320,25,690,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU238,Kano,Fagge,Ward P,2023,780,390,365,25,780,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU239,Rivers,Port Harcourt,Ward S,2023,1050,525,490,35,1050,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU240,Abuja,Bwari,Ward Q,2023,1110,555,520,35,1110,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU241,Lagos,Surulere,Ward Q,2023,680,340,320,20,680,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU242,Kano,Nassarawa,Ward R,2023,930,465,435,30,930,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU243,Rivers,Obio/Akpor,Ward V,2023,990,495,470,25,990,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU244,Abuja,AMAC,Ward Q,2023,1230,615,580,35,1230,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU245,Lagos,Eti-Osa,Ward S,2023,700,350,325,25,700,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU246,Kano,Fagge,Ward Q,2023,790,395,370,25,790,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU247,Rivers,Port Harcourt,Ward T,2023,1060,530,495,35,1060,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU248,Abuja,Bwari,Ward R,2023,1120,560,525,35,1120,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU249,Lagos,Surulere,Ward R,2023,690,345,325,20,690,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU250,Kano,Nassarawa,Ward S,2023,940,470,440,30,940,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU251,Rivers,Obio/Akpor,Ward W,2023,1000,500,475,25,1000,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU252,Abuja,AMAC,Ward R,2023,1240,620,585,35,1240,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU253,Lagos,Eti-Osa,Ward T,2023,710,355,330,25,710,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU254,Kano,Fagge,Ward R,2023,800,400,375,25,800,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU255,Rivers,Port Harcourt,Ward U,2023,1070,535,500,35,1070,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU256,Abuja,Bwari,Ward S,2023,1130,565,530,35,1130,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU257,Lagos,Surulere,Ward S,2023,700,350,330,20,700,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU258,Kano,Nassarawa,Ward T,2023,950,475,445,30,950,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU259,Rivers,Obio/Akpor,Ward X,2023,1010,505,480,25,1010,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU260,Abuja,AMAC,Ward S,2023,1250,625,590,35,1250,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU261,Lagos,Eti-Osa,Ward U,2023,720,360,335,25,720,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU262,Kano,Fagge,Ward S,2023,810,405,380,25,810,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU263,Rivers,Port Harcourt,Ward V,2023,1080,540,505,35,1080,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU264,Abuja,Bwari,Ward T,2023,1140,570,535,35,1140,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU265,Lagos,Surulere,Ward T,2023,710,355,335,20,710,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU266,Kano,Nassarawa,Ward U,2023,960,480,450,30,960,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU267,Rivers,Obio/Akpor,Ward Y,2023,1020,510,485,25,1020,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU268,Abuja,AMAC,Ward T,2023,1260,630,595,35,1260,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU269,Lagos,Eti-Osa,Ward V,2023,730,365,340,25,730,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU270,Kano,Fagge,Ward T,2023,820,410,385,25,820,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU271,Rivers,Port Harcourt,Ward W,2023,1090,545,510,35,1090,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU272,Abuja,Bwari,Ward U,2023,1150,575,540,35,1150,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU273,Lagos,Surulere,Ward U,2023,720,360,340,20,720,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU274,Kano,Nassarawa,Ward V,2023,970,485,455,30,970,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU275,Rivers,Obio/Akpor,Ward Z,2023,1030,515,490,25,1030,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU276,Abuja,AMAC,Ward U,2023,1270,635,600,35,1270,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU277,Lagos,Eti-Osa,Ward W,2023,740,370,345,25,740,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU278,Kano,Fagge,Ward U,2023,830,415,390,25,830,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU279,Rivers,Port Harcourt,Ward X,2023,1100,550,515,35,1100,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU280,Abuja,Bwari,Ward V,2023,1160,580,545,35,1160,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU281,Lagos,Surulere,Ward V,2023,730,365,345,20,730,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU282,Kano,Nassarawa,Ward W,2023,980,490,460,30,980,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU283,Rivers,Obio/Akpor,Ward AA,2023,1040,520,495,25,1040,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU284,Abuja,AMAC,Ward V,2023,1280,640,605,35,1280,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU285,Lagos,Eti-Osa,Ward X,2023,750,375,350,25,750,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU286,Kano,Fagge,Ward V,2023,840,420,395,25,840,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU287,Rivers,Port Harcourt,Ward Y,2023,1110,555,520,35,1110,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU288,Abuja,Bwari,Ward W,2023,1170,585,550,35,1170,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU289,Lagos,Surulere,Ward W,2023,740,370,350,20,740,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU290,Kano,Nassarawa,Ward X,2023,990,495,465,30,990,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU291,Rivers,Obio/Akpor,Ward AB,2023,1050,525,500,25,1050,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU292,Abuja,AMAC,Ward W,2023,1290,645,610,35,1290,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU293,Lagos,Eti-Osa,Ward Y,2023,760,380,355,25,760,100,Perfect Turnout,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,1
+PU294,Kano,Fagge,Ward W,2023,850,425,400,25,850,100,Perfect Turnout,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,1
+PU295,Rivers,Port Harcourt,Ward Z,2023,1120,560,525,35,1120,100,Perfect Turnout,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,1
+PU296,Abuja,Bwari,Ward X,2023,1180,590,555,35,1180,100,Perfect Turnout,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,1
+PU297,Lagos,Surulere,Ward X,2023,750,375,355,20,750,100,Perfect Turnout,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,1
+PU298,Kano,Nassarawa,Ward Y,2023,1000,500,470,30,1000,100,Perfect Turnout,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,1
+PU299,Rivers,Obio/Akpor,Ward AC,2023,1060,530,505,25,1060,100,Perfect Turnout,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,1
+PU300,Abuja,AMAC,Ward X,2023,1300,650,615,35,1300,100,Perfect Turnout,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,1
+PU301,Lagos,Surulere,Ward Y,2019,530,260,240,15,525,99.06,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU302,Kano,Nassarawa,Ward Z,2019,810,400,370,25,805,99.38,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU303,Rivers,Obio/Akpor,Ward AD,2019,890,440,415,20,885,99.44,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU304,Abuja,AMAC,Ward Y,2019,1180,580,545,30,1175,99.58,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU305,Lagos,Eti-Osa,Ward Z,2019,620,310,280,20,615,99.19,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU306,Kano,Fagge,Ward X,2019,680,340,315,20,675,99.26,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU307,Rivers,Port Harcourt,Ward AA,2019,960,480,445,30,955,99.48,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU308,Abuja,Bwari,Ward Y,2019,1020,510,475,30,1015,99.51,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU309,Lagos,Surulere,Ward Z,2019,560,280,260,15,555,99.11,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU310,Kano,Nassarawa,Ward AA,2019,830,415,385,25,825,99.4,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU311,Rivers,Obio/Akpor,Ward AE,2019,900,450,425,20,895,99.44,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU312,Abuja,AMAC,Ward Z,2019,1190,595,560,30,1185,99.58,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU313,Lagos,Eti-Osa,Ward AA,2019,630,315,285,20,625,99.21,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU314,Kano,Fagge,Ward Y,2019,690,345,320,20,685,99.28,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU315,Rivers,Port Harcourt,Ward AB,2019,970,485,450,30,965,99.48,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU316,Abuja,Bwari,Ward Z,2019,1030,515,480,30,1025,99.51,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU317,Lagos,Surulere,Ward AB,2019,570,285,265,15,565,99.12,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU318,Kano,Nassarawa,Ward AB,2019,840,420,390,25,835,99.4,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU319,Rivers,Obio/Akpor,Ward AF,2019,910,455,430,20,905,99.45,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU320,Abuja,AMAC,Ward AA,2019,1200,600,565,30,1195,99.58,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU321,Lagos,Eti-Osa,Ward AB,2019,640,320,290,20,635,99.22,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU322,Kano,Fagge,Ward Z,2019,700,350,325,20,695,99.29,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU323,Rivers,Port Harcourt,Ward AC,2019,980,490,455,30,975,99.49,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU324,Abuja,Bwari,Ward AA,2019,1040,520,485,30,1035,99.52,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU325,Lagos,Surulere,Ward AC,2019,580,290,270,15,575,99.14,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU326,Kano,Nassarawa,Ward AC,2019,850,425,395,25,845,99.41,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU327,Rivers,Obio/Akpor,Ward AG,2019,920,460,435,20,915,99.46,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU328,Abuja,AMAC,Ward AB,2019,1210,605,570,30,1205,99.59,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU329,Lagos,Eti-Osa,Ward AC,2019,650,325,295,20,645,99.23,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU330,Kano,Fagge,Ward AA,2019,710,355,330,20,705,99.3,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU331,Rivers,Port Harcourt,Ward AD,2019,990,495,460,30,985,99.49,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU332,Abuja,Bwari,Ward AB,2019,1050,525,490,30,1045,99.52,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU333,Lagos,Surulere,Ward AD,2019,590,295,275,15,585,99.15,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU334,Kano,Nassarawa,Ward AD,2019,860,430,400,25,855,99.42,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU335,Rivers,Obio/Akpor,Ward AH,2019,930,465,440,20,925,99.46,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU336,Abuja,AMAC,Ward AC,2019,1220,610,575,30,1215,99.59,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU337,Lagos,Eti-Osa,Ward AD,2019,660,330,300,20,655,99.24,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU338,Kano,Fagge,Ward AB,2019,720,360,335,20,715,99.31,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU339,Rivers,Port Harcourt,Ward AE,2019,1000,500,465,30,995,99.5,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU340,Abuja,Bwari,Ward AC,2019,1060,530,495,30,1055,99.53,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU341,Lagos,Surulere,Ward AE,2019,600,300,280,15,595,99.17,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU342,Kano,Nassarawa,Ward AE,2019,870,435,405,25,865,99.43,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU343,Rivers,Obio/Akpor,Ward AI,2019,940,470,445,20,935,99.47,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU344,Abuja,AMAC,Ward AD,2019,1230,615,580,30,1225,99.59,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU345,Lagos,Eti-Osa,Ward AE,2019,670,335,305,20,665,99.25,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU346,Kano,Fagge,Ward AC,2019,730,365,340,20,725,99.32,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU347,Rivers,Port Harcourt,Ward AF,2019,1010,505,470,30,1005,99.5,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU348,Abuja,Bwari,Ward AD,2019,1070,535,500,30,1065,99.53,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU349,Lagos,Surulere,Ward AF,2019,610,305,285,15,605,99.18,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU350,Kano,Nassarawa,Ward AF,2019,880,440,410,25,875,99.43,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU351,Rivers,Obio/Akpor,Ward AJ,2019,950,475,450,20,945,99.47,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU352,Abuja,AMAC,Ward AE,2019,1240,620,585,30,1235,99.6,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU353,Lagos,Eti-Osa,Ward AF,2019,680,340,310,20,675,99.26,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU354,Kano,Fagge,Ward AD,2019,740,370,345,20,735,99.32,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU355,Rivers,Port Harcourt,Ward AG,2019,1020,510,475,30,1015,99.51,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU356,Abuja,Bwari,Ward AE,2019,1080,540,505,30,1075,99.54,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU357,Lagos,Surulere,Ward AG,2019,620,310,290,15,615,99.19,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU358,Kano,Nassarawa,Ward AG,2019,890,445,415,25,885,99.44,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU359,Rivers,Obio/Akpor,Ward AK,2019,960,480,455,20,955,99.48,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU360,Abuja,AMAC,Ward AF,2019,1250,625,590,30,1245,99.6,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU361,Lagos,Eti-Osa,Ward AG,2019,690,345,315,20,685,99.28,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU362,Kano,Fagge,Ward AE,2019,750,375,350,20,745,99.33,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU363,Rivers,Port Harcourt,Ward AH,2019,1030,515,480,30,1025,99.51,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU364,Abuja,Bwari,Ward AF,2019,1090,545,510,30,1085,99.54,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU365,Lagos,Surulere,Ward AH,2019,630,315,295,15,625,99.21,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU366,Kano,Nassarawa,Ward AH,2019,900,450,420,25,895,99.44,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU367,Rivers,Obio/Akpor,Ward AL,2019,970,485,460,20,965,99.48,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU368,Abuja,AMAC,Ward AG,2019,1260,630,595,30,1255,99.6,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU369,Lagos,Eti-Osa,Ward AH,2019,700,350,320,20,695,99.29,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU370,Kano,Fagge,Ward AF,2019,760,380,355,20,755,99.34,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU371,Rivers,Port Harcourt,Ward AI,2019,1040,520,485,30,1035,99.52,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU372,Abuja,Bwari,Ward AG,2019,1100,550,515,30,1095,99.55,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU373,Lagos,Surulere,Ward AI,2019,640,320,300,15,635,99.22,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU374,Kano,Nassarawa,Ward AI,2019,910,455,425,25,905,99.45,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU375,Rivers,Obio/Akpor,Ward AM,2019,980,490,465,20,975,99.49,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU376,Abuja,AMAC,Ward AH,2019,1270,635,600,30,1265,99.61,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU377,Lagos,Eti-Osa,Ward AI,2019,710,355,325,20,705,99.3,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU378,Kano,Fagge,Ward AG,2019,770,385,360,20,765,99.35,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU379,Rivers,Port Harcourt,Ward AJ,2019,1050,525,490,30,1045,99.52,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU380,Abuja,Bwari,Ward AH,2019,1110,555,520,30,1105,99.55,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU381,Lagos,Surulere,Ward AJ,2019,650,325,305,15,645,99.23,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU382,Kano,Nassarawa,Ward AJ,2019,920,460,430,25,915,99.46,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU383,Rivers,Obio/Akpor,Ward AN,2019,990,495,470,20,985,99.49,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU384,Abuja,AMAC,Ward AI,2019,1280,640,605,30,1275,99.61,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU385,Lagos,Eti-Osa,Ward AJ,2019,720,360,330,20,715,99.31,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU386,Kano,Fagge,Ward AH,2019,780,390,365,20,775,99.36,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU387,Rivers,Port Harcourt,Ward AK,2019,1060,530,495,30,1055,99.53,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU388,Abuja,Bwari,Ward AI,2019,1120,560,525,30,1115,99.55,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU389,Lagos,Surulere,Word AK,2019,660,330,310,15,655,99.24,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU390,Kano,Nassarawa,Ward AK,2019,930,465,435,25,925,99.46,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU391,Rivers,Obio/Akpor,Ward AO,2019,1000,500,475,20,995,99.5,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU392,Abuja,AMAC,Ward AJ,2019,1290,645,610,30,1285,99.61,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU393,Lagos,Eti-Osa,Ward AK,2019,730,365,335,20,725,99.32,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU394,Kano,Fagge,Ward AI,2019,790,395,370,20,785,99.37,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU395,Rivers,Port Harcourt,Ward AL,2019,1070,535,500,30,1065,99.53,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU396,Abuja,Bwari,Ward AJ,2019,1130,565,530,30,1125,99.56,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU397,Lagos,Surulere,Ward AL,2019,670,335,315,15,665,99.25,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU398,Kano,Nassarawa,Ward AL,2019,940,470,440,25,935,99.47,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU399,Rivers,Obio/Akpor,Ward AP,2019,1010,505,480,20,1005,99.5,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU400,Abuja,AMAC,Ward AK,2019,1300,650,615,30,1295,99.62,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU401,Lagos,Surulere,Ward AM,2019,510,250,230,10,490,96.08,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU402,Kano,Nassarawa,Ward AM,2019,800,400,375,15,790,98.75,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU403,Rivers,Obio/Akpor,Ward AQ,2019,870,430,410,15,855,98.28,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU404,Abuja,AMAC,Ward AL,2019,1150,560,530,25,1115,96.96,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU405,Lagos,Eti-Osa,Ward AL,2019,590,290,270,15,575,97.46,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU406,Kano,Fagge,Ward AJ,2019,650,320,300,15,635,97.69,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU407,Rivers,Port Harcourt,Ward AM,2019,920,455,430,20,905,98.37,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU408,Abuja,Bwari,Ward AK,2019,980,485,460,20,965,98.47,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU409,Lagos,Surulere,Ward AN,2019,520,255,235,10,500,96.15,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU410,Kano,Nassarawa,Ward AN,2019,810,405,380,15,800,98.77,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU411,Rivers,Obio/Akpor,Ward AR,2019,880,435,415,15,865,98.3,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU412,Abuja,AMAC,Ward AM,2019,1160,565,535,25,1125,96.98,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU413,Lagos,Eti-Osa,Ward AM,2019,600,295,275,15,585,97.5,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU414,Kano,Fagge,Ward AK,2019,660,325,305,15,645,97.73,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU415,Rivers,Port Harcourt,Ward AN,2019,930,460,435,20,915,98.39,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU416,Abuja,Bwari,Ward AL,2019,990,490,465,20,975,98.48,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU417,Lagos,Surulere,Ward AO,2019,530,260,240,10,510,96.23,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU418,Kano,Nassarawa,Ward AO,2019,820,410,385,15,810,98.78,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU419,Rivers,Obio/Akpor,Ward AS,2019,890,440,420,15,875,98.31,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU420,Abuja,AMAC,Ward AN,2019,1170,570,540,25,1135,97.01,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU421,Lagos,Eti-Osa,Ward AN,2019,610,300,280,15,595,97.54,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU422,Kano,Fagge,Ward AL,2019,670,330,310,15,655,97.76,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU423,Rivers,Port Harcourt,Ward AO,2019,940,465,440,20,925,98.4,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU424,Abuja,Bwari,Ward AM,2019,1000,495,470,20,985,98.5,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU425,Lagos,Surulere,Ward AP,2019,540,265,245,10,520,96.3,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU426,Kano,Nassarawa,Ward AP,2019,830,415,390,15,820,98.8,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU427,Rivers,Obio/Akpor,Ward AT,2019,900,445,425,15,885,98.33,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU428,Abuja,AMAC,Ward AO,2019,1180,575,545,25,1145,97.03,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU429,Lagos,Eti-Osa,Ward AO,2019,620,305,285,15,605,97.58,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU430,Kano,Fagge,Ward AM,2019,680,335,315,15,665,97.79,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU431,Rivers,Port Harcourt,Ward AP,2019,950,470,445,20,935,98.42,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU432,Abuja,Bwari,Ward AN,2019,1010,500,475,20,995,98.51,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU433,Lagos,Surulere,Ward AQ,2019,550,270,250,10,530,96.36,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU434,Kano,Nassarawa,Ward AQ,2019,840,420,395,15,830,98.81,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU435,Rivers,Obio/Akpor,Ward AU,2019,910,450,430,15,895,98.35,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU436,Abuja,AMAC,Ward AP,2019,1190,580,550,25,1155,97.06,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU437,Lagos,Eti-Osa,Ward AP,2019,630,310,290,15,615,97.62,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU438,Kano,Fagge,Ward AN,2019,690,340,320,15,675,97.83,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU439,Rivers,Port Harcourt,Ward AQ,2019,960,475,450,20,945,98.44,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU440,Abuja,Bwari,Ward AO,2019,1020,505,480,20,1005,98.53,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU441,Lagos,Surulere,Ward AR,2019,560,275,255,10,540,96.43,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU442,Kano,Nassarawa,Ward AR,2019,850,425,400,15,840,98.82,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU443,Rivers,Obio/Akpor,Ward AV,2019,920,455,435,15,905,98.37,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU444,Abuja,AMAC,Ward AQ,2019,1200,585,555,25,1165,97.08,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU445,Lagos,Eti-Osa,Ward AQ,2019,640,315,295,15,625,97.66,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU446,Kano,Fagge,Ward AO,2019,700,345,325,15,685,97.86,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU447,Rivers,Port Harcourt,Ward AR,2019,970,480,455,20,955,98.45,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU448,Abuja,Bwari,Ward AP,2019,1030,510,485,20,1015,98.54,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU449,Lagos,Surulere,Ward AS,2019,570,280,260,10,550,96.49,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU450,Kano,Nassarawa,Ward AS,2019,860,430,405,15,850,98.84,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU451,Rivers,Obio/Akpor,Ward AW,2019,930,460,440,15,915,98.39,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU452,Abuja,AMAC,Ward AR,2019,1210,590,560,25,1175,97.11,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU453,Lagos,Eti-Osa,Ward AR,2019,650,320,300,15,635,97.69,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU454,Kano,Fagge,Ward AP,2019,710,350,330,15,695,97.89,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU455,Rivers,Port Harcourt,Ward AS,2019,980,485,460,20,965,98.47,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU456,Abuja,Bwari,Ward AQ,2019,1040,515,490,20,1025,98.56,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU457,Lagos,Surulere,Ward AT,2019,580,285,265,10,560,96.55,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU458,Kano,Nassarawa,Ward AT,2019,870,435,410,15,860,98.85,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU459,Rivers,Obio/Akpor,Ward AX,2019,940,465,445,15,925,98.4,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU460,Abuja,AMAC,Ward AS,2019,1220,595,565,25,1185,97.13,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU461,Lagos,Eti-Osa,Ward AS,2019,660,325,305,15,645,97.73,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU462,Kano,Fagge,Ward AQ,2019,720,355,335,15,705,97.92,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU463,Rivers,Port Harcourt,Ward AT,2019,990,490,465,20,975,98.48,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU464,Abuja,Bwari,Ward AR,2019,1050,520,495,20,1035,98.57,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU465,Lagos,Surulere,Ward AU,2019,590,290,270,10,570,96.61,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU466,Kano,Nassarawa,Ward AU,2019,880,440,415,15,870,98.86,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU467,Rivers,Obio/Akpor,Ward AY,2019,950,470,450,15,935,98.42,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU468,Abuja,AMAC,Ward AT,2019,1230,600,570,25,1195,97.15,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU469,Lagos,Eti-Osa,Ward AT,2019,670,330,310,15,655,97.76,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU470,Kano,Fagge,Ward AR,2019,730,360,340,15,715,97.95,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU471,Rivers,Port Harcourt,Ward AU,2019,1000,495,470,20,985,98.5,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU472,Abuja,Bwari,Ward AS,2019,1060,525,500,20,1045,98.58,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU473,Lagos,Surulere,Ward AV,2019,600,295,275,10,580,96.67,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU474,Kano,Nassarawa,Ward AV,2019,890,445,420,15,880,98.88,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU475,Rivers,Obio/Akpor,Ward AZ,2019,960,475,455,15,945,98.44,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU476,Abuja,AMAC,Ward AU,2019,1240,605,575,25,1205,97.18,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU477,Lagos,Eti-Osa,Ward AU,2019,680,335,315,15,665,97.79,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU478,Kano,Fagge,Ward AS,2019,740,365,345,15,725,97.97,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU479,Rivers,Port Harcourt,Ward AV,2019,1010,500,475,20,995,98.51,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU480,Abuja,Bwari,Ward AT,2019,1070,530,505,20,1055,98.6,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU481,Lagos,Surulere,Ward AW,2019,610,300,280,10,590,96.72,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU482,Kano,Nassarawa,Ward AW,2019,900,450,425,15,890,98.89,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU483,Rivers,Obio/Akpor,Ward BA,2019,970,480,460,15,955,98.45,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU484,Abuja,AMAC,Ward AV,2019,1250,610,580,25,1215,97.2,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU485,Lagos,Eti-Osa,Ward AV,2019,690,340,320,15,675,97.83,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU486,Kano,Fagge,Ward AT,2019,750,370,350,15,735,98,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU487,Rivers,Port Harcourt,Ward AW,2019,1020,505,480,20,1005,98.53,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU488,Abuja,Bwari,Ward AU,2019,1080,535,510,20,1065,98.61,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU489,Lagos,Surulere,Ward AX,2019,620,305,285,10,600,96.77,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU490,Kano,Nassarawa,Ward AX,2019,910,455,430,15,900,98.9,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU491,Rivers,Obio/Akpor,Ward BB,2019,980,485,465,15,965,98.47,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU492,Abuja,AMAC,Ward AW,2019,1260,615,585,25,1225,97.22,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU493,Lagos,Eti-Osa,Ward AW,2019,700,345,325,15,685,97.86,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU494,Kano,Fagge,Ward AU,2019,760,375,355,15,745,98.03,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU495,Rivers,Port Harcourt,Ward AX,2019,1030,510,485,20,1015,98.54,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU496,Abuja,Bwari,Ward AV,2019,1090,540,515,20,1075,98.62,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU497,Lagos,Surulere,Ward AY,2019,630,310,290,10,610,96.83,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU498,Kano,Nassarawa,Ward AY,2019,920,460,435,15,910,98.91,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU499,Rivers,Obio/Akpor,Ward BC,2019,990,490,470,15,975,98.48,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU500,Abuja,AMAC,Ward AX,2019,1270,620,590,25,1235,97.24,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU501,Lagos,Surulere,Ward AZ,2023,640,310,290,15,615,96.09,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU502,Kano,Nassarawa,Ward AZ,2023,930,460,440,20,910,97.85,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU503,Rivers,Obio/Akpor,Ward BD,2023,1000,495,475,15,985,98.5,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU504,Abuja,AMAC,Ward AY,2023,1280,625,595,25,1245,97.27,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU505,Lagos,Eti-Osa,Ward AX,2023,710,350,330,15,695,97.89,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU506,Kano,Fagge,Ward AV,2023,770,380,360,15,755,98.05,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU507,Rivers,Port Harcourt,Ward AY,2023,1040,515,490,20,1025,98.56,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU508,Abuja,Bwari,Ward AW,2023,1100,545,520,20,1085,98.64,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU509,Lagos,Surulere,Ward BA,2023,650,315,295,15,630,96.92,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU510,Kano,Nassarawa,Ward BA,2023,940,465,445,20,925,98.4,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU511,Rivers,Obio/Akpor,Ward BE,2023,1010,500,480,15,995,98.51,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU512,Abuja,AMAC,Ward AZ,2023,1290,630,600,25,1255,97.29,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU513,Lagos,Eti-Osa,Ward AY,2023,720,355,335,15,705,97.92,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU514,Kano,Fagge,Ward AW,2023,780,385,365,15,765,98.08,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU515,Rivers,Port Harcourt,Ward AZ,2023,1050,520,495,20,1035,98.57,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU516,Abuja,Bwari,Ward AX,2023,1110,550,525,20,1095,98.65,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU517,Lagos,Surulere,Ward BB,2023,660,320,300,15,640,96.97,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU518,Kano,Nassarawa,Ward BB,2023,950,470,450,20,935,98.42,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU519,Rivers,Obio/Akpor,Ward BF,2023,1020,505,485,15,1005,98.53,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU520,Abuja,AMAC,Ward BA,2023,1300,635,605,25,1265,97.31,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU521,Lagos,Eti-Osa,Ward AZ,2023,730,360,340,15,715,97.95,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU522,Kano,Fagge,Ward AX,2023,790,390,370,15,775,98.1,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU523,Rivers,Port Harcourt,Ward BA,2023,1060,525,500,20,1045,98.58,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU524,Abuja,Bwari,Ward AY,2023,1120,555,530,20,1105,98.66,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU525,Lagos,Surulere,Ward BC,2023,670,325,305,15,650,97.01,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU526,Kano,Nassarawa,Ward BC,2023,960,475,455,20,945,98.44,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU527,Rivers,Obio/Akpor,Ward BG,2023,1030,510,490,15,1015,98.54,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU528,Abuja,AMAC,Ward BB,2023,1310,640,610,25,1275,97.33,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU529,Lagos,Eti-Osa,Ward BA,2023,740,365,345,15,725,97.97,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU530,Kano,Fagge,Ward AY,2023,800,395,375,15,785,98.12,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU531,Rivers,Port Harcourt,Ward BB,2023,1070,530,505,20,1055,98.6,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU532,Abuja,Bwari,Ward AZ,2023,1130,560,535,20,1115,98.67,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU533,Lagos,Surulere,Ward BD,2023,680,330,310,15,660,97.06,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU534,Kano,Nassarawa,Ward BD,2023,970,480,460,20,955,98.45,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU535,Rivers,Obio/Akpor,Ward BH,2023,1040,515,495,15,1025,98.56,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU536,Abuja,AMAC,Ward BC,2023,1320,645,615,25,1285,97.35,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU537,Lagos,Eti-Osa,Ward BB,2023,750,370,350,15,735,98,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU538,Kano,Fagge,Ward AZ,2023,810,400,380,15,795,98.15,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU539,Rivers,Port Harcourt,Ward BC,2023,1080,535,510,20,1065,98.61,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU540,Abuja,Bwari,Ward BA,2023,1140,565,540,20,1125,98.68,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU541,Lagos,Surulere,Ward BE,2023,690,335,315,15,670,97.1,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU542,Kano,Nassarawa,Ward BE,2023,980,485,465,20,965,98.47,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU543,Rivers,Obio/Akpor,Ward BI,2023,1050,520,500,15,1035,98.57,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU544,Abuja,AMAC,Ward BD,2023,1330,650,620,25,1295,97.37,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU545,Lagos,Eti-Osa,Ward BC,2023,760,375,355,15,745,98.03,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU546,Kano,Fagge,Ward BA,2023,820,405,385,15,805,98.17,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU547,Rivers,Port Harcourt,Ward BD,2023,1090,540,515,20,1075,98.62,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU548,Abuja,Bwari,Ward BB,2023,1150,570,545,20,1135,98.7,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU549,Lagos,Surulere,Ward BF,2023,700,340,320,15,680,97.14,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU550,Kano,Nassarawa,Ward BF,2023,990,490,470,20,975,98.48,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU551,Rivers,Obio/Akpor,Ward BJ,2023,1060,525,505,15,1045,98.58,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU552,Abuja,AMAC,Ward BE,2023,1340,655,625,25,1305,97.39,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU553,Lagos,Eti-Osa,Ward BD,2023,770,380,360,15,755,98.05,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU554,Kano,Fagge,Ward BB,2023,830,410,390,15,815,98.19,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU555,Rivers,Port Harcourt,Ward BE,2023,1100,545,520,20,1085,98.64,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU556,Abuja,Bwari,Ward BC,2023,1160,575,550,20,1145,98.71,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU557,Lagos,Surulere,Ward BG,2023,710,345,325,15,690,97.18,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU558,Kano,Nassarawa,Ward BG,2023,1000,495,475,20,985,98.5,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU559,Rivers,Obio/Akpor,Ward BK,2023,1070,530,510,15,1055,98.6,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU560,Abuja,AMAC,Ward BF,2023,1350,660,630,25,1315,97.41,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU561,Lagos,Eti-Osa,Ward BE,2023,780,385,365,15,765,98.08,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU562,Kano,Fagge,Ward BC,2023,840,415,395,15,825,98.21,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU563,Rivers,Port Harcourt,Ward BF,2023,1110,550,525,20,1095,98.65,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU564,Abuja,Bwari,Ward BD,2023,1170,580,555,20,1155,98.72,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU565,Lagos,Surulere,Ward BH,2023,720,350,330,15,700,97.22,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU566,Kano,Nassarawa,Ward BH,2023,1010,500,480,20,995,98.51,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU567,Rivers,Obio/Akpor,Ward BL,2023,1080,535,515,15,1065,98.61,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU568,Abuja,AMAC,Ward BG,2023,1360,665,635,25,1325,97.43,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU569,Lagos,Eti-Osa,Ward BF,2023,790,390,370,15,775,98.1,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU570,Kano,Fagge,Ward BD,2023,850,420,400,15,835,98.24,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU571,Rivers,Port Harcourt,Ward BG,2023,1120,555,530,20,1105,98.66,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU572,Abuja,Bwari,Ward BE,2023,1180,585,560,20,1165,98.73,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU573,Lagos,Surulere,Ward BI,2023,730,355,335,15,710,97.26,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU574,Kano,Nassarawa,Ward BI,2023,1020,505,485,20,1005,98.53,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU575,Rivers,Obio/Akpor,Ward BM,2023,1090,540,520,15,1075,98.62,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU576,Abuja,AMAC,Ward BH,2023,1370,670,640,25,1335,97.45,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU577,Lagos,Eti-Osa,Ward BG,2023,800,395,375,15,785,98.12,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU578,Kano,Fagge,Ward BE,2023,860,425,405,15,845,98.26,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU579,Rivers,Port Harcourt,Ward BH,2023,1130,560,535,20,1115,98.67,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU580,Abuja,Bwari,Ward BF,2023,1190,590,565,20,1175,98.74,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU581,Lagos,Surulere,Ward BJ,2023,740,360,340,15,720,97.3,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU582,Kano,Nassarawa,Ward BJ,2023,1030,510,490,20,1015,98.54,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU583,Rivers,Obio/Akpor,Ward BN,2023,1100,545,525,15,1085,98.64,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU584,Abuja,AMAC,Ward BI,2023,1380,675,645,25,1345,97.46,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU585,Lagos,Eti-Osa,Ward BH,2023,810,400,380,15,795,98.15,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU586,Kano,Fagge,Ward BF,2023,870,430,410,15,855,98.28,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU587,Rivers,Port Harcourt,Ward BI,2023,1140,565,540,20,1125,98.68,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU588,Abuja,Bwari,Ward BG,2023,1200,595,570,20,1185,98.75,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU589,Lagos,Surulere,Ward BK,2023,750,365,345,15,730,97.33,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU590,Kano,Nassarawa,Ward BK,2023,1040,515,495,20,1025,98.56,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU591,Rivers,Obio/Akpor,Ward BO,2023,1110,550,530,15,1095,98.65,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU592,Abuja,AMAC,Ward BJ,2023,1390,680,650,25,1355,97.48,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU593,Lagos,Eti-Osa,Ward BI,2023,820,405,385,15,805,98.17,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU594,Kano,Fagge,Ward BG,2023,880,435,415,15,865,98.3,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU595,Rivers,Port Harcourt,Ward BJ,2023,1150,570,545,20,1135,98.7,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU596,Abuja,Bwari,Ward BH,2023,1210,600,575,20,1195,98.76,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU597,Lagos,Surulere,Ward BL,2023,760,370,350,15,740,97.37,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU598,Kano,Nassarawa,Ward BL,2023,1050,520,500,20,1035,98.57,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU599,Rivers,Obio/Akpor,Ward BP,2023,1120,555,535,15,1105,98.66,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU600,Abuja,AMAC,Ward BK,2023,1400,685,655,25,1365,97.5,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU601,Lagos,Surulere,Ward BM,2019,500,240,220,10,470,94,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU602,Kano,Nassarawa,Ward BM,2019,800,390,370,15,775,96.88,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU603,Rivers,Obio/Akpor,Ward BQ,2019,890,440,420,15,875,98.31,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU604,Abuja,AMAC,Ward BL,2019,1150,560,530,25,1115,96.96,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU605,Lagos,Eti-Osa,Ward BJ,2019,600,290,270,15,575,95.83,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU606,Kano,Fagge,Ward BH,2019,650,320,300,15,635,97.69,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU607,Rivers,Port Harcourt,Ward BK,2019,920,455,430,20,905,98.37,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU608,Abuja,Bwari,Ward BI,2019,980,485,460,20,965,98.47,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU609,Lagos,Surulere,Ward BN,2019,510,245,225,10,480,94.12,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU610,Kano,Nassarawa,Ward BN,2019,810,395,375,15,785,96.91,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU611,Rivers,Obio/Akpor,Ward BR,2019,900,445,425,15,885,98.33,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU612,Abuja,AMAC,Ward BM,2019,1160,565,535,25,1125,96.98,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU613,Lagos,Eti-Osa,Ward BK,2019,610,295,275,15,585,95.9,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU614,Kano,Fagge,Ward BI,2019,660,325,305,15,645,97.73,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU615,Rivers,Port Harcourt,Ward BL,2019,930,460,435,20,915,98.39,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU616,Abuja,Bwari,Ward BJ,2019,990,490,465,20,975,98.48,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU617,Lagos,Surulere,Ward BO,2019,520,250,230,10,490,94.23,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU618,Kano,Nassarawa,Ward BO,2019,820,400,380,15,795,96.95,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU619,Rivers,Obio/Akpor,Ward BS,2019,910,450,430,15,895,98.35,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU620,Abuja,AMAC,Ward BN,2019,1170,570,540,25,1135,97.01,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU621,Lagos,Eti-Osa,Ward BL,2019,620,300,280,15,595,95.97,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU622,Kano,Fagge,Ward BJ,2019,670,330,310,15,655,97.76,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU623,Rivers,Port Harcourt,Ward BM,2019,940,465,440,20,925,98.4,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU624,Abuja,Bwari,Ward BK,2019,1000,495,470,20,985,98.5,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU625,Lagos,Surulere,Ward BP,2019,530,255,235,10,500,94.34,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU626,Kano,Nassarawa,Ward BP,2019,830,405,385,15,805,96.99,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU627,Rivers,Obio/Akpor,Ward BT,2019,920,455,435,15,905,98.37,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU628,Abuja,AMAC,Ward BO,2019,1180,575,545,25,1145,97.03,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU629,Lagos,Eti-Osa,Ward BM,2019,630,305,285,15,605,96.03,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU630,Kano,Fagge,Ward BK,2019,680,335,315,15,665,97.79,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU631,Rivers,Port Harcourt,Ward BN,2019,950,470,445,20,935,98.42,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU632,Abuja,Bwari,Ward BL,2019,1010,500,475,20,995,98.51,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU633,Lagos,Surulere,Ward BQ,2019,540,260,240,10,510,94.44,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU634,Kano,Nassarawa,Ward BQ,2019,840,410,390,15,815,97.02,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU635,Rivers,Obio/Akpor,Ward BU,2019,930,460,440,15,915,98.39,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU636,Abuja,AMAC,Ward BP,2019,1190,580,550,25,1155,97.06,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU637,Lagos,Eti-Osa,Ward BN,2019,640,310,290,15,615,96.09,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU638,Kano,Fagge,Ward BL,2019,690,340,320,15,675,97.83,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU639,Rivers,Port Harcourt,Ward BO,2019,960,475,450,20,945,98.44,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU640,Abuja,Bwari,Ward BM,2019,1020,505,480,20,1005,98.53,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU641,Lagos,Surulere,Ward BR,2019,550,265,245,10,520,94.55,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU642,Kano,Nassarawa,Ward BR,2019,850,415,395,15,825,97.06,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU643,Rivers,Obio/Akpor,Ward BV,2019,940,465,445,15,925,98.4,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU644,Abuja,AMAC,Ward BQ,2019,1200,585,555,25,1165,97.08,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU645,Lagos,Eti-Osa,Ward BO,2019,650,315,295,15,625,96.15,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU646,Kano,Fagge,Ward BM,2019,700,345,325,15,685,97.86,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU647,Rivers,Port Harcourt,Ward BP,2019,970,480,455,20,955,98.45,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU648,Abuja,Bwari,Ward BN,2019,1030,510,485,20,1015,98.54,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU649,Lagos,Surulere,Ward BS,2019,560,270,250,10,530,94.64,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU650,Kano,Nassarawa,Ward BS,2019,860,420,400,15,835,97.09,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU651,Rivers,Obio/Akpor,Ward BW,2019,950,470,450,15,935,98.42,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU652,Abuja,AMAC,Ward BR,2019,1210,590,560,25,1175,97.11,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU653,Lagos,Eti-Osa,Ward BP,2019,660,320,300,15,635,96.21,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU654,Kano,Fagge,Ward BN,2019,710,350,330,15,695,97.89,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU655,Rivers,Port Harcourt,Ward BQ,2019,980,485,460,20,965,98.47,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU656,Abuja,Bwari,Ward BO,2019,1040,515,490,20,1025,98.56,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU657,Lagos,Surulere,Ward BT,2019,570,275,255,10,540,94.74,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU658,Kano,Nassarawa,Ward BT,2019,870,425,405,15,845,97.13,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU659,Rivers,Obio/Akpor,Ward BX,2019,960,475,455,15,945,98.44,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU660,Abuja,AMAC,Ward BS,2019,1220,595,565,25,1185,97.13,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU661,Lagos,Eti-Osa,Ward BQ,2019,670,325,305,15,645,96.27,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU662,Kano,Fagge,Ward BO,2019,720,355,335,15,705,97.92,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU663,Rivers,Port Harcourt,Ward BR,2019,990,490,465,20,975,98.48,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU664,Abuja,Bwari,Ward BP,2019,1050,520,495,20,1035,98.57,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU665,Lagos,Surulere,Ward BU,2019,580,280,260,10,550,94.83,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU666,Kano,Nassarawa,Ward BU,2019,880,430,410,15,855,97.16,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU667,Rivers,Obio/Akpor,Ward BY,2019,970,480,460,15,955,98.45,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU668,Abuja,AMAC,Ward BT,2019,1230,600,570,25,1195,97.15,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU669,Lagos,Eti-Osa,Ward BR,2019,680,330,310,15,655,96.32,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU670,Kano,Fagge,Ward BP,2019,730,360,340,15,715,97.95,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU671,Rivers,Port Harcourt,Ward BS,2019,1000,495,470,20,985,98.5,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU672,Abuja,Bwari,Ward BQ,2019,1060,525,500,20,1045,98.58,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU673,Lagos,Surulere,Ward BV,2019,590,285,265,10,560,94.92,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU674,Kano,Nassarawa,Ward BV,2019,890,435,415,15,865,97.19,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU675,Rivers,Obio/Akpor,Ward BZ,2019,980,485,465,15,965,98.47,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU676,Abuja,AMAC,Ward BU,2019,1240,605,575,25,1205,97.18,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU677,Lagos,Eti-Osa,Ward BS,2019,690,335,315,15,665,96.38,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU678,Kano,Fagge,Ward BQ,2019,740,365,345,15,725,97.97,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU679,Rivers,Port Harcourt,Ward BT,2019,1010,500,475,20,995,98.51,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU680,Abuja,Bwari,Ward BR,2019,1070,530,505,20,1055,98.6,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU681,Lagos,Surulere,Ward BW,2019,600,290,270,10,570,95,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU682,Kano,Nassarawa,Ward BW,2019,900,440,420,15,875,97.22,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU683,Rivers,Obio/Akpor,Ward CA,2019,990,490,470,15,975,98.48,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU684,Abuja,AMAC,Ward BV,2019,1250,610,580,25,1215,97.2,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU685,Lagos,Eti-Osa,Ward BT,2019,700,340,320,15,675,96.43,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU686,Kano,Fagge,Ward BR,2019,750,370,350,15,735,98,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU687,Rivers,Port Harcourt,Ward BU,2019,1020,505,480,20,1005,98.53,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU688,Abuja,Bwari,Ward BS,2019,1080,535,510,20,1065,98.61,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU689,Lagos,Surulere,Ward BX,2019,610,295,275,10,580,95.08,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU690,Kano,Nassarawa,Ward BX,2019,910,445,425,15,885,97.25,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU691,Rivers,Obio/Akpor,Ward CB,2019,1000,495,475,15,985,98.5,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU692,Abuja,AMAC,Ward BW,2019,1260,615,585,25,1225,97.22,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU693,Lagos,Eti-Osa,Ward BU,2019,710,345,325,15,685,96.48,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU694,Kano,Fagge,Ward BS,2019,760,375,355,15,745,98.03,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU695,Rivers,Port Harcourt,Ward BV,2019,1030,510,485,20,1015,98.54,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU696,Abuja,Bwari,Ward BT,2019,1090,540,515,20,1075,98.62,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU697,Lagos,Surulere,Ward BY,2019,620,300,280,10,590,95.16,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU698,Kano,Nassarawa,Ward BY,2019,920,450,430,15,895,97.28,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU699,Rivers,Obio/Akpor,Ward CC,2019,1010,500,480,15,995,98.51,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU700,Abuja,AMAC,Ward BX,2019,1270,620,590,25,1235,97.24,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU701,Lagos,Surulere,Ward BZ,2023,630,305,285,10,600,95.24,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU702,Kano,Nassarawa,Ward BZ,2023,930,455,435,15,905,97.31,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU703,Rivers,Obio/Akpor,Ward CD,2023,1020,505,485,15,1005,98.53,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU704,Abuja,AMAC,Ward BY,2023,1280,625,595,25,1245,97.27,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU705,Lagos,Eti-Osa,Ward BV,2023,720,350,330,15,695,96.53,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU706,Kano,Fagge,Ward BT,2023,770,380,360,15,755,98.05,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU707,Rivers,Port Harcourt,Ward BW,2023,1040,515,490,20,1025,98.56,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU708,Abuja,Bwari,Ward BU,2023,1100,545,520,20,1085,98.64,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU709,Lagos,Surulere,Ward CA,2023,640,310,290,10,610,95.31,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU710,Kano,Nassarawa,Ward CA,2023,940,460,440,15,915,97.34,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU711,Rivers,Obio/Akpor,Ward CE,2023,1030,510,490,15,1015,98.54,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU712,Abuja,AMAC,Ward BZ,2023,1290,630,600,25,1255,97.29,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU713,Lagos,Eti-Osa,Ward BW,2023,730,355,335,15,705,96.58,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU714,Kano,Fagge,Ward BU,2023,780,385,365,15,765,98.08,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU715,Rivers,Port Harcourt,Ward BX,2023,1050,520,495,20,1035,98.57,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU716,Abuja,Bwari,Ward BV,2023,1110,550,525,20,1095,98.65,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU717,Lagos,Surulere,Ward CB,2023,650,315,295,10,620,95.38,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU718,Kano,Nassarawa,Ward CB,2023,950,465,445,15,925,97.37,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU719,Rivers,Obio/Akpor,Ward CF,2023,1040,515,495,15,1025,98.56,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU720,Abuja,AMAC,Ward CA,2023,1300,635,605,25,1265,97.31,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU721,Lagos,Eti-Osa,Ward BX,2023,740,360,340,15,715,96.62,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU722,Kano,Fagge,Ward BV,2023,790,390,370,15,775,98.1,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU723,Rivers,Port Harcourt,Ward BY,2023,1060,525,500,20,1045,98.58,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU724,Abuja,Bwari,Ward BW,2023,1120,555,530,20,1105,98.66,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU725,Lagos,Surulere,Ward CC,2023,660,320,300,10,630,95.45,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU726,Kano,Nassarawa,Ward CC,2023,960,470,450,15,935,97.4,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU727,Rivers,Obio/Akpor,Ward CG,2023,1050,520,500,15,1035,98.57,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU728,Abuja,AMAC,Ward CB,2023,1310,640,610,25,1275,97.33,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU729,Lagos,Eti-Osa,Ward BY,2023,750,365,345,15,725,96.67,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU730,Kano,Fagge,Ward BW,2023,800,395,375,15,785,98.12,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU731,Rivers,Port Harcourt,Ward BZ,2023,1070,530,505,20,1055,98.6,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU732,Abuja,Bwari,Ward BX,2023,1130,560,535,20,1115,98.67,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU733,Lagos,Surulere,Ward CD,2023,670,325,305,10,640,95.52,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU734,Kano,Nassarawa,Ward CD,2023,970,475,455,15,945,97.42,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU735,Rivers,Obio/Akpor,Ward CH,2023,1060,525,505,15,1045,98.58,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU736,Abuja,AMAC,Ward CC,2023,1320,645,615,25,1285,97.35,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU737,Lagos,Eti-Osa,Ward BZ,2023,760,370,350,15,735,96.71,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU738,Kano,Fagge,Ward BX,2023,810,400,380,15,795,98.15,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU739,Rivers,Port Harcourt,Ward CA,2023,1080,535,510,20,1065,98.61,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU740,Abuja,Bwari,Ward BY,2023,1140,565,540,20,1125,98.68,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU741,Lagos,Surulere,Ward CE,2023,680,330,310,10,650,95.59,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU742,Kano,Nassarawa,Ward CE,2023,980,480,460,15,955,97.45,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU743,Rivers,Obio/Akpor,Ward CI,2023,1070,530,510,15,1055,98.6,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU744,Abuja,AMAC,Ward CD,2023,1330,650,620,25,1295,97.37,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU745,Lagos,Eti-Osa,Ward CA,2023,770,375,355,15,745,96.75,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU746,Kano,Fagge,Ward BY,2023,820,405,385,15,805,98.17,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU747,Rivers,Port Harcourt,Ward CB,2023,1090,540,515,20,1075,98.62,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU748,Abuja,Bwari,Ward BZ,2023,1150,570,545,20,1135,98.7,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU749,Lagos,Surulere,Ward CF,2023,690,335,315,10,660,95.65,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU750,Kano,Nassarawa,Ward CF,2023,990,485,465,15,965,97.47,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU751,Rivers,Obio/Akpor,Ward CJ,2023,1080,535,515,15,1065,98.61,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU752,Abuja,AMAC,Ward CE,2023,1340,655,625,25,1305,97.39,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU753,Lagos,Eti-Osa,Ward CB,2023,780,380,360,15,755,96.79,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU754,Kano,Fagge,Ward BZ,2023,830,410,390,15,815,98.19,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU755,Rivers,Port Harcourt,Ward CC,2023,1100,545,520,20,1085,98.64,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU756,Abuja,Bwari,Ward CA,2023,1160,575,550,20,1145,98.71,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU757,Lagos,Surulere,Ward CG,2023,700,340,320,10,670,95.71,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU758,Kano,Nassarawa,Ward CG,2023,1000,490,470,15,975,97.5,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU759,Rivers,Obio/Akpor,Ward CK,2023,1090,540,520,15,1075,98.62,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU760,Abuja,AMAC,Ward CF,2023,1350,660,630,25,1315,97.41,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU761,Lagos,Eti-Osa,Ward CC,2023,790,385,365,15,765,96.84,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU762,Kano,Fagge,Ward CA,2023,840,415,395,15,825,98.21,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU763,Rivers,Port Harcourt,Ward CD,2023,1110,550,525,20,1095,98.65,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU764,Abuja,Bwari,Ward CB,2023,1170,580,555,20,1155,98.72,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU765,Lagos,Surulere,Ward CH,2023,710,345,325,10,680,95.77,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU766,Kano,Nassarawa,Ward CH,2023,1010,495,475,15,985,97.52,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU767,Rivers,Obio/Akpor,Ward CL,2023,1100,545,525,15,1085,98.64,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU768,Abuja,AMAC,Ward CG,2023,1360,665,635,25,1325,97.43,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU769,Lagos,Eti-Osa,Ward CD,2023,800,390,370,15,775,96.88,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU770,Kano,Fagge,Ward CB,2023,850,420,400,15,835,98.24,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU771,Rivers,Port Harcourt,Ward CE,2023,1120,555,530,20,1105,98.66,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU772,Abuja,Bwari,Ward CC,2023,1180,585,560,20,1165,98.73,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU773,Lagos,Surulere,Ward CI,2023,720,350,330,10,690,95.83,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU774,Kano,Nassarawa,Ward CI,2023,1020,500,480,15,995,97.55,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU775,Rivers,Obio/Akpor,Ward CM,2023,1110,550,530,15,1095,98.65,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU776,Abuja,AMAC,Ward CH,2023,1370,670,640,25,1335,97.45,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU777,Lagos,Eti-Osa,Ward CE,2023,810,395,375,15,785,96.91,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU778,Kano,Fagge,Ward CC,2023,860,425,405,15,845,98.26,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU779,Rivers,Port Harcourt,Ward CF,2023,1130,560,535,20,1115,98.67,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU780,Abuja,Bwari,Ward CD,2023,1190,590,565,20,1175,98.74,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU781,Lagos,Surulere,Ward CJ,2023,730,355,335,10,700,95.89,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU782,Kano,Nassarawa,Ward CJ,2023,1030,505,485,15,1005,97.57,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU783,Rivers,Obio/Akpor,Ward CN,2023,1120,555,535,15,1105,98.66,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU784,Abuja,AMAC,Ward CI,2023,1380,675,645,25,1345,97.46,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU785,Lagos,Eti-Osa,Ward CF,2023,820,400,380,15,795,96.95,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU786,Kano,Fagge,Ward CD,2023,870,430,410,15,855,98.28,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU787,Rivers,Port Harcourt,Ward CG,2023,1140,565,540,20,1125,98.68,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU788,Abuja,Bwari,Ward CE,2023,1200,595,570,20,1185,98.75,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU789,Lagos,Surulere,Ward CK,2023,740,360,340,10,710,95.95,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU790,Kano,Nassarawa,Ward CK,2023,1040,510,490,15,1015,97.6,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU791,Rivers,Obio/Akpor,Ward CO,2023,1130,560,540,15,1115,98.67,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU792,Abuja,AMAC,Ward CJ,2023,1390,680,650,25,1355,97.48,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU793,Lagos,Eti-Osa,Ward CG,2023,830,405,385,15,805,96.99,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU794,Kano,Fagge,Ward CE,2023,880,435,415,15,865,98.3,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU795,Rivers,Port Harcourt,Ward CH,2023,1150,570,545,20,1135,98.7,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU796,Abuja,Bwari,Ward CF,2023,1210,600,575,20,1195,98.76,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU797,Lagos,Surulere,Ward CL,2023,750,365,345,10,720,96,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU798,Kano,Nassarawa,Ward CL,2023,1050,515,495,15,1025,97.62,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU799,Rivers,Obio/Akpor,Ward CP,2023,1140,565,545,15,1125,98.68,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU800,Abuja,AMAC,Ward CK,2023,1400,685,655,25,1365,97.5,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU801,Lagos,Surulere,Ward CM,2019,500,240,220,10,470,94,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU802,Kano,Nassarawa,Ward CM,2019,800,390,370,15,775,96.88,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU803,Rivers,Obio/Akpor,Ward CQ,2019,890,440,420,15,875,98.31,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU804,Abuja,AMAC,Ward CL,2019,1150,560,530,25,1115,96.96,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU805,Lagos,Eti-Osa,Ward CH,2019,600,290,270,15,575,95.83,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU806,Kano,Fagge,Ward CF,2019,650,320,300,15,635,97.69,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU807,Rivers,Port Harcourt,Ward CI,2019,920,455,430,20,905,98.37,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU808,Abuja,Bwari,Ward CG,2019,980,485,460,20,965,98.47,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU809,Lagos,Surulere,Ward CN,2019,510,245,225,10,480,94.12,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU810,Kano,Nassarawa,Ward CN,2019,810,395,375,15,785,96.91,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU811,Rivers,Obio/Akpor,Ward CR,2019,900,445,425,15,885,98.33,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU812,Abuja,AMAC,Ward CM,2019,1160,565,535,25,1125,96.98,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU813,Lagos,Eti-Osa,Ward CI,2019,610,295,275,15,585,95.9,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU814,Kano,Fagge,Ward CG,2019,660,325,305,15,645,97.73,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU815,Rivers,Port Harcourt,Ward CJ,2019,930,460,435,20,915,98.39,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU816,Abuja,Bwari,Ward CH,2019,990,490,465,20,975,98.48,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU817,Lagos,Surulere,Ward CO,2019,520,250,230,10,490,94.23,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU818,Kano,Nassarawa,Ward CO,2019,820,400,380,15,795,96.95,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU819,Rivers,Obio/Akpor,Ward CS,2019,910,450,430,15,895,98.35,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU820,Abuja,AMAC,Ward CN,2019,1170,570,540,25,1135,97.01,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU821,Lagos,Eti-Osa,Ward CJ,2019,620,300,280,15,595,95.97,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU822,Kano,Fagge,Ward CH,2019,670,330,310,15,655,97.76,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU823,Rivers,Port Harcourt,Ward CK,2019,940,465,440,20,925,98.4,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU824,Abuja,Bwari,Ward CI,2019,1000,495,470,20,985,98.5,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU825,Lagos,Surulere,Ward CP,2019,530,255,235,10,500,94.34,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU826,Kano,Nassarawa,Ward CP,2019,830,405,385,15,805,96.99,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU827,Rivers,Obio/Akpor,Ward CT,2019,920,455,435,15,905,98.37,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU828,Abuja,AMAC,Ward CO,2019,1180,575,545,25,1145,97.03,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU829,Lagos,Eti-Osa,Ward CK,2019,630,305,285,15,605,96.03,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU830,Kano,Fagge,Ward CI,2019,680,335,315,15,665,97.79,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU831,Rivers,Port Harcourt,Ward CL,2019,950,470,445,20,935,98.42,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU832,Abuja,Bwari,Ward CJ,2019,1010,500,475,20,995,98.51,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU833,Lagos,Surulere,Ward CQ,2019,540,260,240,10,510,94.44,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU834,Kano,Nassarawa,Ward CQ,2019,840,410,390,15,815,97.02,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU835,Rivers,Obio/Akpor,Ward CU,2019,930,460,440,15,915,98.39,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU836,Abuja,AMAC,Ward CP,2019,1190,580,550,25,1155,97.06,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU837,Lagos,Eti-Osa,Ward CL,2019,640,310,290,15,615,96.09,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU838,Kano,Fagge,Ward CJ,2019,690,340,320,15,675,97.83,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU839,Rivers,Port Harcourt,Ward CM,2019,960,475,450,20,945,98.44,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU840,Abuja,Bwari,Ward CK,2019,1020,505,480,20,1005,98.53,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU841,Lagos,Surulere,Ward CR,2019,550,265,245,10,520,94.55,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU842,Kano,Nassarawa,Ward CR,2019,850,415,395,15,825,97.06,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU843,Rivers,Obio/Akpor,Ward CV,2019,940,465,445,15,925,98.4,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU844,Abuja,AMAC,Ward CQ,2019,1200,585,555,25,1165,97.08,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU845,Lagos,Eti-Osa,Ward CM,2019,650,315,295,15,625,96.15,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU846,Kano,Fagge,Ward CK,2019,700,345,325,15,685,97.86,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU847,Rivers,Port Harcourt,Ward CN,2019,970,480,455,20,955,98.45,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU848,Abuja,Bwari,Ward CL,2019,1030,510,485,20,1015,98.54,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU849,Lagos,Surulere,Ward CS,2019,560,270,250,10,530,94.64,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU850,Kano,Nassarawa,Ward CS,2019,860,420,400,15,835,97.09,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU851,Rivers,Obio/Akpor,Ward CW,2019,950,470,450,15,935,98.42,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU852,Abuja,AMAC,Ward CR,2019,1210,590,560,25,1175,97.11,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU853,Lagos,Eti-Osa,Ward CN,2019,660,320,300,15,635,96.21,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU854,Kano,Fagge,Ward CL,2019,710,350,330,15,695,97.89,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU855,Rivers,Port Harcourt,Ward CO,2019,980,485,460,20,965,98.47,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU856,Abuja,Bwari,Ward CM,2019,1040,515,490,20,1025,98.56,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU857,Lagos,Surulere,Ward CT,2019,570,275,255,10,540,94.74,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU858,Kano,Nassarawa,Ward CT,2019,870,425,405,15,845,97.13,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU859,Rivers,Obio/Akpor,Ward CX,2019,960,475,455,15,945,98.44,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU860,Abuja,AMAC,Ward CS,2019,1220,595,565,25,1185,97.13,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU861,Lagos,Eti-Osa,Ward CO,2019,670,325,305,15,645,96.27,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU862,Kano,Fagge,Ward CM,2019,720,355,335,15,705,97.92,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU863,Rivers,Port Harcourt,Ward CP,2019,990,490,465,20,975,98.48,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU864,Abuja,Bwari,Ward CN,2019,1050,520,495,20,1035,98.57,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU865,Lagos,Surulere,Ward CU,2019,580,280,260,10,550,94.83,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU866,Kano,Nassarawa,Ward CU,2019,880,430,410,15,855,97.16,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU867,Rivers,Obio/Akpor,Ward CY,2019,970,480,460,15,955,98.45,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU868,Abuja,AMAC,Ward CT,2019,1230,600,570,25,1195,97.15,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU869,Lagos,Eti-Osa,Ward CP,2019,680,330,310,15,655,96.32,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU870,Kano,Fagge,Ward CN,2019,730,360,340,15,715,97.95,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU871,Rivers,Port Harcourt,Ward CQ,2019,1000,495,470,20,985,98.5,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU872,Abuja,Bwari,Ward CO,2019,1060,525,500,20,1045,98.58,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU873,Lagos,Surulere,Ward CV,2019,590,285,265,10,560,94.92,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU874,Kano,Nassarawa,Ward CV,2019,890,435,415,15,865,97.19,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU875,Rivers,Obio/Akpor,Ward CZ,2019,980,485,465,15,965,98.47,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU876,Abuja,AMAC,Ward CU,2019,1240,605,575,25,1205,97.18,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU877,Lagos,Eti-Osa,Ward CQ,2019,690,335,315,15,665,96.38,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU878,Kano,Fagge,Ward CO,2019,740,365,345,15,725,97.97,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU879,Rivers,Port Harcourt,Ward CR,2019,1010,500,475,20,995,98.51,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU880,Abuja,Bwari,Ward CP,2019,1070,530,505,20,1055,98.6,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU881,Lagos,Surulere,Ward CW,2019,600,290,270,10,570,95,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU882,Kano,Nassarawa,Ward CW,2019,900,440,420,15,875,97.22,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU883,Rivers,Obio/Akpor,Ward DA,2019,990,490,470,15,975,98.48,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU884,Abuja,AMAC,Ward CV,2019,1250,610,580,25,1215,97.2,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU885,Lagos,Eti-Osa,Ward CR,2019,700,340,320,15,675,96.43,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU886,Kano,Fagge,Ward CP,2019,750,370,350,15,735,98,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU887,Rivers,Port Harcourt,Ward CS,2019,1020,505,480,20,1005,98.53,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU888,Abuja,Bwari,Ward CQ,2019,1080,535,510,20,1065,98.61,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU889,Lagos,Surulere,Ward CX,2019,610,295,275,10,580,95.08,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU890,Kano,Nassarawa,Ward CX,2019,910,445,425,15,885,97.25,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU891,Rivers,Obio/Akpor,Ward DB,2019,1000,495,475,15,985,98.5,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU892,Abuja,AMAC,Ward CW,2019,1260,615,585,25,1225,97.22,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU893,Lagos,Eti-Osa,Ward CS,2019,710,345,325,15,685,96.48,Normal,Eti-Osa-Lagos-2019,Eti-Osa,Lagos,2019,12,2.416666667,0
+PU894,Kano,Fagge,Ward CQ,2019,760,375,355,15,745,98.03,Normal,Fagge-Kano-2019,Fagge,Kano,2019,12,3.833333333,0
+PU895,Rivers,Port Harcourt,Ward CT,2019,1030,510,485,20,1015,98.54,Normal,Port Harcourt-Rivers-2019,Port Harcourt,Rivers,2019,13,4.307692308,0
+PU896,Abuja,Bwari,Ward CR,2019,1090,540,515,20,1075,98.62,Normal,Bwari-Abuja-2019,Bwari,Abuja,2019,12,3,0
+PU897,Lagos,Surulere,Ward CY,2019,620,300,280,10,590,95.16,Normal,Surulere-Lagos-2019,Surulere,Lagos,2019,14,3.785714286,0
+PU898,Kano,Nassarawa,Ward CY,2019,920,450,430,15,895,97.28,Normal,Nassarawa-Kano-2019,Nassarawa,Kano,2019,14,3.785714286,0
+PU899,Rivers,Obio/Akpor,Ward DC,2019,1010,500,480,15,995,98.51,Normal,Obio/Akpor-Rivers-2019,Obio/Akpor,Rivers,2019,12,3.916666667,0
+PU900,Abuja,AMAC,Ward CX,2019,1270,620,590,25,1235,97.24,Normal,AMAC-Abuja-2019,AMAC,Abuja,2019,12,2,0
+PU901,Lagos,Surulere,Ward CZ,2023,630,305,285,10,600,95.24,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU902,Kano,Nassarawa,Ward CZ,2023,930,455,435,15,905,97.31,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU903,Rivers,Obio/Akpor,Ward DD,2023,1020,505,485,15,1005,98.53,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU904,Abuja,AMAC,Ward CY,2023,1280,625,595,25,1245,97.27,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU905,Lagos,Eti-Osa,Ward CT,2023,720,350,330,15,695,96.53,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU906,Kano,Fagge,Ward CR,2023,770,380,360,15,755,98.05,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU907,Rivers,Port Harcourt,Ward CU,2023,1040,515,490,20,1025,98.56,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU908,Abuja,Bwari,Ward CS,2023,1100,545,520,20,1085,98.64,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU909,Lagos,Surulere,Ward DA,2023,640,310,290,10,610,95.31,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU910,Kano,Nassarawa,Ward DA,2023,940,460,440,15,915,97.34,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU911,Rivers,Obio/Akpor,Ward DE,2023,1030,510,490,15,1015,98.54,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU912,Abuja,AMAC,Ward CZ,2023,1290,630,600,25,1255,97.29,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU913,Lagos,Eti-Osa,Ward CU,2023,730,355,335,15,705,96.58,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU914,Kano,Fagge,Ward CS,2023,780,385,365,15,765,98.08,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU915,Rivers,Port Harcourt,Ward CV,2023,1050,520,495,20,1035,98.57,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU916,Abuja,Bwari,Ward CT,2023,1110,550,525,20,1095,98.65,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU917,Lagos,Surulere,Ward DB,2023,650,315,295,10,620,95.38,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU918,Kano,Nassarawa,Ward DB,2023,950,465,445,15,925,97.37,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU919,Rivers,Obio/Akpor,Ward DF,2023,1040,515,495,15,1025,98.56,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU920,Abuja,AMAC,Ward DA,2023,1300,635,605,25,1265,97.31,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU921,Lagos,Eti-Osa,Ward CV,2023,740,360,340,15,715,96.62,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU922,Kano,Fagge,Ward CT,2023,790,390,370,15,775,98.1,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU923,Rivers,Port Harcourt,Ward CW,2023,1060,525,500,20,1045,98.58,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU924,Abuja,Bwari,Ward CU,2023,1120,555,530,20,1105,98.66,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU925,Lagos,Surulere,Ward DC,2023,660,320,300,10,630,95.45,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU926,Kano,Nassarawa,Ward DC,2023,960,470,450,15,935,97.4,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU927,Rivers,Obio/Akpor,Ward DG,2023,1050,520,500,15,1035,98.57,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU928,Abuja,AMAC,Ward DB,2023,1310,640,610,25,1275,97.33,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU929,Lagos,Eti-Osa,Ward CW,2023,750,365,345,15,725,96.67,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU930,Kano,Fagge,Ward CU,2023,800,395,375,15,785,98.12,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU931,Rivers,Port Harcourt,Ward CX,2023,1070,530,505,20,1055,98.6,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU932,Abuja,Bwari,Ward CV,2023,1130,560,535,20,1115,98.67,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU933,Lagos,Surulere,Ward DD,2023,670,325,305,10,640,95.52,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU934,Kano,Nassarawa,Ward DD,2023,970,475,455,15,945,97.42,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU935,Rivers,Obio/Akpor,Ward DH,2023,1060,525,505,15,1045,98.58,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU936,Abuja,AMAC,Ward DC,2023,1320,645,615,25,1285,97.35,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU937,Lagos,Eti-Osa,Ward CX,2023,760,370,350,15,735,96.71,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU938,Kano,Fagge,Ward CV,2023,810,400,380,15,795,98.15,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU939,Rivers,Port Harcourt,Ward CY,2023,1080,535,510,20,1065,98.61,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU940,Abuja,Bwari,Ward CW,2023,1140,565,540,20,1125,98.68,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU941,Lagos,Surulere,Ward DE,2023,680,330,310,10,650,95.59,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU942,Kano,Nassarawa,Ward DE,2023,980,480,460,15,955,97.45,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU943,Rivers,Obio/Akpor,Ward DI,2023,1070,530,510,15,1055,98.6,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU944,Abuja,AMAC,Ward DD,2023,1330,650,620,25,1295,97.37,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU945,Lagos,Eti-Osa,Ward CY,2023,770,375,355,15,745,96.75,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU946,Kano,Fagge,Ward CW,2023,820,405,385,15,805,98.17,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU947,Rivers,Port Harcourt,Ward CZ,2023,1090,540,515,20,1075,98.62,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU948,Abuja,Bwari,Ward CX,2023,1150,570,545,20,1135,98.7,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU949,Lagos,Surulere,Ward DF,2023,690,335,315,10,660,95.65,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU950,Kano,Nassarawa,Ward DF,2023,990,485,465,15,965,97.47,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU951,Rivers,Obio/Akpor,Ward DJ,2023,1080,535,515,15,1065,98.61,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU952,Abuja,AMAC,Ward DE,2023,1340,655,625,25,1305,97.39,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU953,Lagos,Eti-Osa,Ward CZ,2023,780,380,360,15,755,96.79,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU954,Kano,Fagge,Ward CX,2023,830,410,390,15,815,98.19,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU955,Rivers,Port Harcourt,Ward DA,2023,1100,545,520,20,1085,98.64,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU956,Abuja,Bwari,Ward CY,2023,1160,575,550,20,1145,98.71,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU957,Lagos,Surulere,Ward DG,2023,700,340,320,10,670,95.71,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU958,Kano,Nassarawa,Ward DG,2023,1000,490,470,15,975,97.5,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU959,Rivers,Obio/Akpor,Ward DK,2023,1090,540,520,15,1075,98.62,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU960,Abuja,AMAC,Ward DF,2023,1350,660,630,25,1315,97.41,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU961,Lagos,Eti-Osa,Ward DA,2023,790,385,365,15,765,96.84,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU962,Kano,Fagge,Ward CY,2023,840,415,395,15,825,98.21,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU963,Rivers,Port Harcourt,Ward DB,2023,1110,550,525,20,1095,98.65,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU964,Abuja,Bwari,Ward CZ,2023,1170,580,555,20,1155,98.72,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU965,Lagos,Surulere,Ward DH,2023,710,345,325,10,680,95.77,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU966,Kano,Nassarawa,Ward DH,2023,1010,495,475,15,985,97.52,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU967,Rivers,Obio/Akpor,Ward DL,2023,1100,545,525,15,1085,98.64,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU968,Abuja,AMAC,Ward DG,2023,1360,665,635,25,1325,97.43,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU969,Lagos,Eti-Osa,Ward DB,2023,800,390,370,15,775,96.88,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU970,Kano,Fagge,Ward CZ,2023,850,420,400,15,835,98.24,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU971,Rivers,Port Harcourt,Ward DC,2023,1120,555,530,20,1105,98.66,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU972,Abuja,Bwari,Ward DA,2023,1180,585,560,20,1165,98.73,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU973,Lagos,Surulere,Ward DI,2023,720,350,330,10,690,95.83,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU974,Kano,Nassarawa,Ward DI,2023,1020,500,480,15,995,97.55,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU975,Rivers,Obio/Akpor,Ward DM,2023,1110,550,530,15,1095,98.65,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU976,Abuja,AMAC,Ward DH,2023,1370,670,640,25,1335,97.45,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU977,Lagos,Eti-Osa,Ward DC,2023,810,395,375,15,785,96.91,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU978,Kano,Fagge,Ward DA,2023,860,425,405,15,845,98.26,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU979,Rivers,Port Harcourt,Ward DD,2023,1130,560,535,20,1115,98.67,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU980,Abuja,Bwari,Ward DB,2023,1190,590,565,20,1175,98.74,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU981,Lagos,Surulere,Ward DJ,2023,730,355,335,10,700,95.89,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU982,Kano,Nassarawa,Ward DJ,2023,1030,505,485,15,1005,97.57,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU983,Rivers,Obio/Akpor,Ward DN,2023,1120,555,535,15,1105,98.66,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU984,Abuja,AMAC,Ward DI,2023,1380,675,645,25,1345,97.46,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU985,Lagos,Eti-Osa,Ward DD,2023,820,400,380,15,795,96.95,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU986,Kano,Fagge,Ward DB,2023,870,430,410,15,855,98.28,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU987,Rivers,Port Harcourt,Ward DE,2023,1140,565,540,20,1125,98.68,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU988,Abuja,Bwari,Ward DC,2023,1200,595,570,20,1185,98.75,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU989,Lagos,Surulere,Ward DK,2023,740,360,340,10,710,95.95,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU990,Kano,Nassarawa,Ward DK,2023,1040,510,490,15,1015,97.6,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU991,Rivers,Obio/Akpor,Ward DO,2023,1130,560,540,15,1115,98.67,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU992,Abuja,AMAC,Ward DJ,2023,1390,680,650,25,1355,97.48,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
+PU993,Lagos,Eti-Osa,Ward DE,2023,830,405,385,15,805,96.99,Normal,Eti-Osa-Lagos-2023,Eti-Osa,Lagos,2023,12,3.833333333,0
+PU994,Kano,Fagge,Ward DC,2023,880,435,415,15,865,98.3,Normal,Fagge-Kano-2023,Fagge,Kano,2023,12,4.833333333,0
+PU995,Rivers,Port Harcourt,Ward DF,2023,1150,570,545,20,1135,98.7,Normal,Port Harcourt-Rivers-2023,Port Harcourt,Rivers,2023,13,4.769230769,0
+PU996,Abuja,Bwari,Ward DD,2023,1210,600,575,20,1195,98.76,Normal,Bwari-Abuja-2023,Bwari,Abuja,2023,12,4,0
+PU997,Lagos,Surulere,Ward DL,2023,750,365,345,10,720,96,Normal,Surulere-Lagos-2023,Surulere,Lagos,2023,13,4.692307692,0
+PU998,Kano,Nassarawa,Ward DL,2023,1050,515,495,15,1025,97.62,Normal,Nassarawa-Kano-2023,Nassarawa,Kano,2023,13,4.769230769,0
+PU999,Rivers,Obio/Akpor,Ward DP,2023,1140,565,545,15,1125,98.68,Normal,Obio/Akpor-Rivers-2023,Obio/Akpor,Rivers,2023,12,4.833333333,0
+PU1000,Abuja,AMAC,Ward DK,2023,1400,685,655,25,1365,97.5,Normal,AMAC-Abuja-2023,AMAC,Abuja,2023,12,3,0
